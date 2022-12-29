@@ -22,7 +22,7 @@ body {
     border: 0.1rem solid #a8aaac;
     border-radius: 3rem;
     font-size: larger;
-    box-shadow: 0 0.6rem #a8aaac;
+    box-shadow: 0 0.6rem rgb(197, 192, 192)
     /* box-shadow: 0 0.6rem #adb5bd; */
 }
 
@@ -48,12 +48,12 @@ body {
     color: white;
     border: none;
     border-radius: 0.5rem;
-    box-shadow: 0 0.3rem rgb(197, 192, 192);
+    box-shadow: 0 0.3rem #a8aaac;
     cursor: pointer;
 }
 
 #start:active, #stop:active, #reset:active {
-    box-shadow: 0 0.1rem rgb(179, 172, 172);
+    box-shadow: 0 0.1rem #a8aaac;
     transform: translateY(0.2rem);
 }
 
