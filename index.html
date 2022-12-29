@@ -8,13 +8,21 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div>
-        <div>
-            00 : 00 : 00
+    <div id="container">
+        <div id="time">
+            <span class="digit" id="hr">00</span>
+            <span class="txt">h</span>
+            <span class="digit" id="min">00</span>
+            <span class="txt">m</span>
+            <span class="digit" id="sec">00</span>
+            <span class="txt">s</span>
         </div>
-        <div id="start">Start</div>
-        <div id="stop">Stop</div>
-        <div id="reset">Reset</div>
+
+        <div id="btn-container">
+            <button class="btn" id="start">start</button>
+            <button class="btn" id="stop">stop</button>
+            <button class="btn" id="reset">reset</button>
+        </div>
     </div>
 </body>
 </html>
