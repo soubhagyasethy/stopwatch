@@ -1,0 +1,64 @@
+let tens = 0;
+let sec = 0;
+let min = 0;
+
+let timer = false;
+
+// run this function if start button clicked
+function startTimer() {
+    timer = true;
+    stopWatch();
+}
+
+// run this function if reset button clicked
+function stopTimer() {
+    timer = false;
+}
+
+// run this function if reset button clicked
+function resetTimer() {
+    timer = false;
+
+    tens = 0;
+    sec = 0;
+    min = 0;
+
+    document.getElementById("tens").innerHTML = "00";
+    document.getElementById("sec").innerHTML = "00";
+    document.getElementById("min").innerHTML = "00";
+}
+
+// 
+function stopWatch() {
+    if (timer == true) {
+        tens = tens + 1;
+        
+        if(tens == 100) {
+            sec = sec + 1;
+            tens = 0;
+        }
+        if(sec == 60) {
+            min = min + 1;
+            sec = 0;
+        }
+
+        let tensString = tens;
+        let secString = sec;
+        let minString = min;
+
+        if(tens < 10) {
+            tensString = "0" + tensString;
+        }
+        if(sec < 10) {
+            secString = "0" + secString;
+        }
+        if(min < 10) {
+            minString = "0" + minString;
+        } 
+
+        document.getElementById("min").innerHTML = minString;
+        document.getElementById("sec").innerHTML = secString;
+        document.getElementById("tens").innerHTML = tensString;
+        setTimeout("stopWatch()", 10)
+    }
+}
