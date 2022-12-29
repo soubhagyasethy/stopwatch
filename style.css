@@ -1,3 +1,8 @@
+@font-face {
+    font-family: digital;
+    src:url(digital.ttf);
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -17,7 +22,6 @@ body {
     border: 0.1rem solid #a8aaac;
     border-radius: 3rem;
     font-size: larger;
-    font-family: verdana;
     box-shadow: 0 0.6rem #a8aaac;
     /* box-shadow: 0 0.6rem #adb5bd; */
 }
@@ -29,7 +33,8 @@ body {
     box-shadow: inset 0 0.2rem 0.5rem #a7a5a3;
 }
 .digit {
-    font-size: 2.5rem;
+    font-family: digital;
+    font-size: 3.5rem;
 }
 
 #btn-container {
@@ -43,7 +48,7 @@ body {
     color: white;
     border: none;
     border-radius: 0.5rem;
-    box-shadow: 0 0.3rem rgb(179, 172, 172);
+    box-shadow: 0 0.3rem rgb(197, 192, 192);
     cursor: pointer;
 }
 
