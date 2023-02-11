@@ -1,5 +1,4 @@
 ## STOPWATCH
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsoubhagyasethy3)](https://twitter.com/soubhagyasethy3)
 
 A simple and intuitive stopwatch made using JavaScript.
@@ -10,13 +9,6 @@ A simple and intuitive stopwatch made using JavaScript.
 
 ![stopwatch-rec](https://user-images.githubusercontent.com/82697602/210046592-010da19b-ed16-4e94-80f3-cd7e8e846bc5.gif)
 
-### Table of Contents
-
-1. [Features](#features)
-2. [Usage](#usage)
-3. [Support](#support)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ### Features
 
@@ -43,16 +35,3 @@ That's it! You should now be able to use the stopwatch project locally on your m
 
 For any issues or questions regarding the stopwatch, please open a GitHub issue.
 
-### Contributing
-
-If you'd like to contribute to the development of the stopwatch, please follow these steps:
-
-  1. Fork the repository
-  2. Clone the repository to your local machine
-  3. Make changes and commit them
-  4. Push the changes to your fork
-  5. Create a pull request
-
-## License
-
-The stopwatch is licensed under the MIT License.
