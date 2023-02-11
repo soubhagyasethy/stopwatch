@@ -1,9 +1,12 @@
-## STOPWATCH 
+## STOPWATCH
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsoubhagyasethy3)](https://twitter.com/soubhagyasethy3)
+
 A simple and intuitive stopwatch made using JavaScript.
 
-_For using the stopwatch visit_: https://responsive-stopwatch.netlify.app/
+- _For using the stopwatch visit_: https://responsive-stopwatch.netlify.app/
 
-Preview:
+- Preview:
 
 ![stopwatch-rec](https://user-images.githubusercontent.com/82697602/210046592-010da19b-ed16-4e94-80f3-cd7e8e846bc5.gif)
 
@@ -22,7 +25,7 @@ To use/run the stopwatch locally,
 - OR clone the stopwatch project repository to your local machine using the following command:
   
 ``` 
-  git clone https://github.com/[username]/stopwatch.git
+  git clone https://github.com/soubhagyasethy/stopwatch.git
 ```
 - Open the index.html file in your web browser. The stopwatch will appear when the page loads.
 - You can start, stop, and reset the stopwatch by clicking the corresponding buttons on the page.
