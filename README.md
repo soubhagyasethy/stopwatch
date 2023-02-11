@@ -6,17 +6,17 @@ A simple and intuitive stopwatch made using JavaScript.
 
 - _For using the stopwatch visit_: https://responsive-stopwatch.netlify.app/
 
-- Preview:
+- Use Case Example:
 
 ![stopwatch-rec](https://user-images.githubusercontent.com/82697602/210046592-010da19b-ed16-4e94-80f3-cd7e8e846bc5.gif)
 
 ### Table of Contents
 
-- [Features](#features)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
-- [License](#license)
+1. [Features](#features)
+2. [Usage](#usage)
+3. [Support](#support)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ### Features
 
