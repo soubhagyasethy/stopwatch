@@ -1,7 +1,7 @@
 ## STOPWATCH
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsoubhagyasethy3)](https://twitter.com/soubhagyasethy3)
 
-A simple and intuitive stopwatch made using JavaScript.
+A simple and intuitive stopwatch made using ``` Vanilla JavaScript ```, ``` HTML ```, ``` CSS ```.
 
 - _For using the stopwatch visit_: https://responsive-stopwatch.netlify.app/
 
@@ -13,9 +13,10 @@ A simple and intuitive stopwatch made using JavaScript.
 ### Features
 
 - Easy-to-use interface
-- Accurate timing with millisecond precision
+- Accurate timing with millisecond ``` precision ```.
 - Start, stop, and reset functionality
 - Lightweight and fast.
+- It's ``` responsive ``` design ensures that this web application looks and works well on various devices.
 
 ### Usage 
 
