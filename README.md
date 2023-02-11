@@ -5,7 +5,7 @@ A simple and intuitive stopwatch made using JavaScript.
 
 - _For using the stopwatch visit_: https://responsive-stopwatch.netlify.app/
 
-- Use Case Example:
+- Demo:
 
 ![stopwatch-rec](https://user-images.githubusercontent.com/82697602/210046592-010da19b-ed16-4e94-80f3-cd7e8e846bc5.gif)
 
